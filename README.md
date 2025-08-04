@@ -9,7 +9,7 @@ This project was built and tested using **Paperspace Gradient Notebooks**, but y
 ##  Background
 
 This repo supports my Medium article:  
- [**GANs Love to Cheat — WGAN-GP Taught Mine Discipline**](https://medium.com/@debasishbiswal04/i-built-a-gan-that-draws-clothes-and-heres-everything-i-learned-3900c35dfd94)
+ [**GANs Love to Cheat — WGAN-GP Taught Mine Discipline**](https://medium.com/@debasishbiswal04/gans-love-to-cheat-wgan-gp-taught-mine-discipline-c2b2db3ac7fa)
 
 It’s the follow-up to:  
  [**I Built a GAN That Draws Clothes**](https://medium.com/@debasishbiswal04/i-built-a-gan-that-draws-clothes-and-heres-everything-i-learned-3900c35dfd94)
